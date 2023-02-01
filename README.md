@@ -6,5 +6,5 @@
 
 Repository dedicated to basic codes developed in specific projects and that can be useful in future projects.
 
-Sections:
+### **Folders**:
 - [Pyspark](https://github.com/samuel-haddad/PieceOfCode/tree/main/pyspak)
